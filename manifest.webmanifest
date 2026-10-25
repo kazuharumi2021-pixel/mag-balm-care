@@ -1,7 +1,7 @@
 {
   "name": "マグバーム施術記録",
   "short_name": "マグバーム",
-  "description": "家族のマグバーム施術記録管理",
+  "description": "家族のマグバーム施術記録管理 v3（腕・手対応）",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
